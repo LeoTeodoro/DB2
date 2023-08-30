@@ -1,0 +1,20 @@
+{
+    "professor": {
+        "Nome": "Joao"
+    },
+    "assunto": "Probabilidade",
+    "Alunos": [
+        {
+            "nome": "Mateus"
+        },
+        {
+            "nome": "Simao"
+        },
+        {
+            "nome": "Judas"
+        },
+        {
+            "nome": "Tiago"
+        }
+    ]
+}
