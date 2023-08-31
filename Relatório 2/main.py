@@ -7,3 +7,8 @@ db.resetDatabase()
 pokedex = Pokedex(db)
 
 pokedex.getAllPokemons()
+pokedex.getPokemonByName("Bulbasaur")
+types = ["Grass", "Poison"]
+pokedex.getPokemonsByType(types)
+pokedex.verifyExistingEvolutions()
+pokedex.getPokemonsMoreThanOneWeakness()
